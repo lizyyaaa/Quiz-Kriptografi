@@ -15,7 +15,7 @@ Program ini memungkinkan pengguna untuk mengenkripsi dan mendekripsi teks menggu
    - Klon atau unduh repository ini ke komputer Anda.
 
 4. **Jalankan di VS Code**
-   - Buka file `quizkriptografi.py` di Visual Studio Code dan jalankan.
+   - Buka file `tugasquizkriptografi.py` di Visual Studio Code dan jalankan.
 
 5. **Masukkan Teks**
    - Ketik atau tempel teks yang ingin Anda enkripsi atau dekripsi ke dalam kolom "Input Text".
